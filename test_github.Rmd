@@ -11,7 +11,7 @@ Type your name (or anything else) HERE:
 
 Here's some code (change the variable names and values):
 ```{r}
-# Change these variable names and values:
+# Change these variable names and values (i.e. assign new colors and values):
 
 blue <- 100
 
